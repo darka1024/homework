@@ -1,0 +1,14 @@
+/home/darka/Documents/vs code/homework/bin/Debug/net10.0/homework
+/home/darka/Documents/vs code/homework/bin/Debug/net10.0/homework.deps.json
+/home/darka/Documents/vs code/homework/bin/Debug/net10.0/homework.runtimeconfig.json
+/home/darka/Documents/vs code/homework/bin/Debug/net10.0/homework.dll
+/home/darka/Documents/vs code/homework/bin/Debug/net10.0/homework.pdb
+/home/darka/Documents/vs code/homework/obj/Debug/net10.0/homework.GeneratedMSBuildEditorConfig.editorconfig
+/home/darka/Documents/vs code/homework/obj/Debug/net10.0/homework.AssemblyInfoInputs.cache
+/home/darka/Documents/vs code/homework/obj/Debug/net10.0/homework.AssemblyInfo.cs
+/home/darka/Documents/vs code/homework/obj/Debug/net10.0/homework.csproj.CoreCompileInputs.cache
+/home/darka/Documents/vs code/homework/obj/Debug/net10.0/homework.dll
+/home/darka/Documents/vs code/homework/obj/Debug/net10.0/refint/homework.dll
+/home/darka/Documents/vs code/homework/obj/Debug/net10.0/homework.pdb
+/home/darka/Documents/vs code/homework/obj/Debug/net10.0/homework.genruntimeconfig.cache
+/home/darka/Documents/vs code/homework/obj/Debug/net10.0/ref/homework.dll
