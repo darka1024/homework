@@ -19,5 +19,5 @@ Console.WriteLine(text.Contains("c#"));
 
 //=============== 5
 Console.WriteLine(text.StartsWith("Уча"));
-Console.WriteLine(text.StartsWith("."));
-Console.WriteLine(text.StartsWith("C#"));
+Console.WriteLine(text.EndsWith("."));
+Console.WriteLine(text.EndsWith("C#"));
